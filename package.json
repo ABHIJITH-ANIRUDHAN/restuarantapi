@@ -1,0 +1,13 @@
+{
+  "name": "restuarantapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ABHIJITH-ANIRUDHAN/restuarantapi.git",
+  "author": "ABHIJITH-ANIRUDHAN <abhijithanirudhan@proton.me>",
+  "scripts":{"start":"node index.js"},
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
